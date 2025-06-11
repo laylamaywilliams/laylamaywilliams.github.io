@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklaylasblog=self.webpackChunklaylasblog||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"All Reviews","items":[{"title":"The Catcher in the Rye, J.D Salinger","permalink":"/blog/catcher","unlisted":false,"date":"2025-06-10T00:00:00.000Z"}]}')}}]);

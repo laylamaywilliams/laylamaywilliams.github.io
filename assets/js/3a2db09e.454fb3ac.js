@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklaylasblog=self.webpackChunklaylasblog||[]).push([[121],{8070:a=>{a.exports=JSON.parse('{"tags":[{"label":"book review","permalink":"/blog/tags/book-review","count":1},{"label":"dystopian","permalink":"/blog/tags/dystopian","count":1}]}')}}]);

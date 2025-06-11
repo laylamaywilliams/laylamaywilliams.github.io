@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Bookshelf Blog</title>
+        <link>https://laylamaywilliams.github.io/blog</link>
+        <description>The latest book reviews and thoughts.</description>
+        <lastBuildDate>Tue, 10 Jun 2025 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <copyright>Copyright © 2025 My Book Shelf.</copyright>
+        <item>
+            <title><![CDATA[The Catcher in the Rye, J.D Salinger]]></title>
+            <link>https://laylamaywilliams.github.io/blog/catcher</link>
+            <guid>https://laylamaywilliams.github.io/blog/catcher</guid>
+            <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img]]></description>
+            <content:encoded><![CDATA[<img src="https://abc.nl/covers/9780316769488/200" alt="Book Cover: The Catcher in the Rye" style="float:left;margin-right:20px;margin-bottom:10px;max-width:150px;height:auto">
+<p>J.D Salinger's 'The Catcher in the Rye' covers a timeline of just over two days and follows the journey of a teenage boy, expelled from boarding school, as he makes his way home. Throughout the novella, we see his interactions with various characters, both the 'phonies' and those he loves. Whilst it is largely considered a modern classic, the mixed reviews came as a shock to me.</p>
+<p>Many believe that the protagonist, Holden, is a selfish, spoilt malcontent and that the novella's language is limited. Personally, I would argue that the language in the novel is chosen carefully to enhance the character voice and give the reader a true insight to the mind of a troubled teen. As for Holden himself, whilst I'll admit he is not the most likeable, his hardships in life, such as losing his brother at just thirteen, should not be ignored. I think that people are often inadvertently dismissive of the character's that they do not immediately relate to or those that are flawed. However, this should not be a cause for coming to the conclusion that the novella is poorly written. I believe that Salinger carefully captures the imperfect workings of Holden's mind creating a slow, but ultimately heart-warming story.</p>
+<p>Holden should be a sympathetic character. He alienates himself from his peers and views the majority of adults in his life as 'phony'. Whilst his attitude is evidently judgemental, arguably, it is the character's way of avoiding failure or emotional pain. Another way in which Salinger portrays Holden as a sympathetic is through his repetitive allusions to suicide. By writing these comments in a casual way, Salinger explores the fine line between teenage angst and serious depression. For me and likely many other readers, Holden's dissatisfaction with life is initially difficult to comprehend; he comes from a wealthy family, has a loving sister and has every opportunity within his reach. Yet, as the story proceeds, the depth of Holden's unhappiness becomes apparent as his emotions become evidently more troubling than those of the average adolescent. Maybe, it is not a matter of 'why' the character should feel this way, but rather a reflection of those emotions in general.</p>
+<p>My favourite parts of his story are those depicted with his younger sister, Phoebe. It is because of his perceptive sister that Holden eventually begins to take responsibility for his life and actions towards the end of the novel. I also believe that these interactions remind us, as readers that, despite Holden's tough facade, he is still just a child. His misinterpretation of Robert Burns' 'Comin' Thro the Rye' perhaps acts as a metaphor for Holden's discomfort with growing up and reaching adulthood, further conveying his childish nature. I think it is interesting that Salinger chose to use this poem since its predominant theme is the question of whether or not casual sex is okay. One could interpret that this decision links to the protagonist's internal struggle surrounding sex and women.</p>
+<p>As for those who think the novella is lacking in plot, I believe they are missing the point. It is not meant to be an action packed story. I would interpret that Salinger aimed to highlight the importance of both friends, family and strangers in shaping an individuals life. Each character Holden meets, even in this short period of time, influences the decisions he makes and eventually, as mentioned before, his decision to work out what he wants to do with his life. This idea actually made me think of 'Station Eleven' by Emily St. John Mandel when one of the characters reflects, moments before her death, on how different life would be if a single person, even a stranger, was not in it.</p>
+<p>Overall, I would give this book three stars. Whilst there is depth to the novella and its protagonist, personally, it wasn't my favourite modern classic. I can see its literary value but I simply did not enjoy it enough to give it five stars. That being said, I would still encourage you to read it if you haven't already and to let me know what you thought!</p>]]></content:encoded>
+            <category>book review</category>
+            <category>dystopian</category>
+        </item>
+    </channel>
+</rss>
