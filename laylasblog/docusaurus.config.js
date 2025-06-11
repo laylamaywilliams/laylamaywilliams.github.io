@@ -29,7 +29,7 @@ const config = {
   // GitHub pages deployment config.
   organizationName: 'laylamaywilliams', // IMPORTANT: Your GitHub org/user name.
   projectName: 'laylamaywilliams.github.io', // IMPORTANT: Your repo name.
-
+  deploymentBranch: 'gh-pages',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
