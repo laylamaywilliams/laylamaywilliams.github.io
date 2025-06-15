@@ -4,11 +4,28 @@
         <title>Bookshelf Blog</title>
         <link>https://laylamaywilliams.github.io/blog</link>
         <description>The latest book reviews and thoughts.</description>
-        <lastBuildDate>Tue, 10 Jun 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jun 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Copyright © 2025 My Book Shelf.</copyright>
+        <item>
+            <title><![CDATA[The Bell Jar, Sylvia Plath]]></title>
+            <link>https://laylamaywilliams.github.io/blog/belljar</link>
+            <guid>https://laylamaywilliams.github.io/blog/belljar</guid>
+            <pubDate>Sun, 15 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[<img]]></description>
+            <content:encoded><![CDATA[<img src="https://m.media-amazon.com/images/I/812nGlXCWwL.jpg" alt="Book Cover: The Bell Jar" style="float:left;margin-right:20px;margin-bottom:10px;max-width:150px;height:auto">
+<p>Written just months before her suicide, Plath’s ‘The Bell Jar’ tells the story of ambitious student Esther Greenwood as her dreams of becoming a poet are put on hold due to a mental health crisis. Plath’s writing is clear, impactful and full of heart wrenching experiences. Plath entwines ambition, dissociation between mind and body and womanhood to create a compelling tale of real experiences.</p>
+<p>One of my favourite moments of the novel is Plath’s description of the fig tree. Arguably, she uses this as a metaphor for the abundance of choices people can experience in life and how this can often lead to overwhelm. I think what Plath is trying to suggest is that the combination of ambition and a lack of direction can often lead to feelings of helplessness and anxiety. As a character who has worked relentlessly all of her life, Esther consequently suffers from having to choose between a number of ‘wonderful future[s]’ but is incapable of choosing just one ‘fig’. After some research, I discovered that ‘the green fig tree’ is possibly an allusion to a biblical story. In this story, Jesus and his disciples come across a fig tree that had many green leaves. However, upon drawing closer, the tree only had leaves and no fruit. Perhaps this suggests that, deep down, the character of Esther knows that none of these future possibilities will be fulfilled. Consequently, Esther’s fear of making the right decision overrides a fear of not making a decision at all, leaving her stranded and ‘starving to death’.</p>
+<p>What I loved most about ‘The Bell Jar’ was Plath’s prose style. She uses rich figurative language and her writing is full of expertly crafted metaphors. This is ultimately what makes the novel engaging, sorrowful and cathartic. Although it is a difficult read, I was immersed in the world Plath creates and hence, I would give it five stars. Everyone should read this.</p>]]></content:encoded>
+            <category>Classics</category>
+            <category>Fiction</category>
+            <category>Feminism</category>
+            <category>Mental Health</category>
+            <category>Psychology</category>
+            <category>Poetry</category>
+        </item>
         <item>
             <title><![CDATA[The Catcher in the Rye, J.D Salinger]]></title>
             <link>https://laylamaywilliams.github.io/blog/catcher</link>
@@ -22,8 +39,7 @@
 <p>My favourite parts of his story are those depicted with his younger sister, Phoebe. It is because of his perceptive sister that Holden eventually begins to take responsibility for his life and actions towards the end of the novel. I also believe that these interactions remind us, as readers that, despite Holden's tough facade, he is still just a child. His misinterpretation of Robert Burns' 'Comin' Thro the Rye' perhaps acts as a metaphor for Holden's discomfort with growing up and reaching adulthood, further conveying his childish nature. I think it is interesting that Salinger chose to use this poem since its predominant theme is the question of whether or not casual sex is okay. One could interpret that this decision links to the protagonist's internal struggle surrounding sex and women.</p>
 <p>As for those who think the novella is lacking in plot, I believe they are missing the point. It is not meant to be an action packed story. I would interpret that Salinger aimed to highlight the importance of both friends, family and strangers in shaping an individuals life. Each character Holden meets, even in this short period of time, influences the decisions he makes and eventually, as mentioned before, his decision to work out what he wants to do with his life. This idea actually made me think of 'Station Eleven' by Emily St. John Mandel when one of the characters reflects, moments before her death, on how different life would be if a single person, even a stranger, was not in it.</p>
 <p>Overall, I would give this book three stars. Whilst there is depth to the novella and its protagonist, personally, it wasn't my favourite modern classic. I can see its literary value but I simply did not enjoy it enough to give it five stars. That being said, I would still encourage you to read it if you haven't already and to let me know what you thought!</p>]]></content:encoded>
-            <category>book review</category>
-            <category>dystopian</category>
+            <category>Classics</category>
         </item>
     </channel>
 </rss>
