@@ -1,0 +1,59 @@
+* static/css/giscus-dark.css */
+
+/* Base Giscus element */
+body {
+  /* Match Docusaurus dark background */
+  background-color: #2a2a2a !important; 
+  /* Match Docusaurus primary text color */
+  color: #e0e0e0 !important; 
+}
+
+/* Specific elements within Giscus for text/links */
+.giscus-frame,
+.giscus-comment-box,
+.giscus-header,
+.giscus-comment,
+.giscus-reply-box {
+  background-color: #2a2a2a !important;
+  color: #e0e0e0 !important;
+}
+
+/* Links and primary elements within Giscus */
+.giscus-header-text,
+.giscus-button,
+.giscus-link,
+.giscus-comment-action-button {
+  color: #9BB0E0 !important; /* Your Docusaurus primary color dark */
+}
+
+.giscus-comment-action-button:hover {
+  text-decoration: underline !important;
+}
+
+/* Input/Textarea backgrounds */
+input[type="text"],
+textarea {
+  background-color: #383838 !important; /* Slightly lighter dark grey for inputs */
+  color: #e0e0e0 !important;
+  border: 1px solid #555 !important; /* A darker grey border */
+}
+
+/* User avatar backgrounds (optional) */
+.giscus-avatar {
+  background-color: #2a2a2a !important;
+}
+
+/* Reactions and other interactive elements */
+.giscus-reactions,
+.giscus-reactions-button {
+  background-color: #333 !important; /* Another dark grey for subtle backgrounds */
+  color: #e0e0e0 !important;
+  border: 1px solid #444 !important;
+}
+
+.giscus-reactions-button:hover {
+  background-color: #444 !important;
+}
+
+/* You may need to inspect Giscus elements and add more specific styles */
+/* Use !important cautiously, only where necessary to override Giscus defaults */
