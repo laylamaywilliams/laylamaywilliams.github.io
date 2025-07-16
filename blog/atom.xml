@@ -2,12 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://laylamaywilliams.github.io/blog</id>
     <title>Bookshelf Blog</title>
-    <updated>2025-06-17T00:00:00.000Z</updated>
+    <updated>2025-07-16T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://laylamaywilliams.github.io/blog"/>
     <subtitle>The latest book reviews and thoughts.</subtitle>
     <icon>https://laylamaywilliams.github.io/img/favicon.ico</icon>
     <rights>Copyright © 2025 My Book Shelf.</rights>
+    <entry>
+        <title type="html"><![CDATA[Shuggie Bain, Douglas Stuart]]></title>
+        <id>https://laylamaywilliams.github.io/blog/shuggie</id>
+        <link href="https://laylamaywilliams.github.io/blog/shuggie"/>
+        <updated>2025-07-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img]]></summary>
+        <content type="html"><![CDATA[<img src="https://m.media-amazon.com/images/I/71wfg-FbHiL._SY466_.jpg" alt="Book Cover: Shuggie Bain" style="float:left;margin-right:20px;margin-bottom:10px;max-width:150px;height:auto">
+<p>Douglas Stuart’s ‘Shuggie Bain’ follows the childhood of a young boy, Shuggie, and the struggles he faced growing up in a working class background of 1980s Scotland. Despite his desperate attempts to fit in and behave like a ‘real boy’, his homosexuality is apparent leading to bullying and his own insecurity. His mother, Agnes, is an alcoholic, abandoned by almost everyone in her life, from her husband to her eldest children. Yet, Shuggie withstands her temperamental personality and unreliable mothering attributes, despite his own happiness and security. It is a story of loss, hardship and the acceptance of one’s identity. It is a story of a young boy that is forced to grow up too quickly.</p>
+<p>This was perhaps one of the most perceptive portrayals of alcoholism I have ever seen in literature. Throughout the novel, Stuart evokes both sympathy and anger from the reader towards the despairing state of Shuggie’s life. The reader may hold their breath in hope that Agnes’ situation will improve whilst constantly knowing that her life is ultimately hopeless. Stuart conveys the relentless ups and downs as Agnes fights for sobriety and as Shuggie watches helplessly. Whilst the novel is primarily aimed at those who can relate to the characters, particularly in terms of the key themes of addiction, poverty and sexuality, the book is still relevant to anyone willing to widen their breadth of reading and understand the hardships faced by many. The novel is, in part, autobiographical, and I think that really comes across in the insightful portrayal of 1980s poverty. It is beautifully written and carefully captures the essence of one individual’s life.</p>
+<p>One of my favourite moments was the protagonist’s description of his mother and how ‘when her belly was empty and her weans were hungry, she did her hair and let the world think otherwise’. This is one of the few examples in the novel where Agnes did right by Shuggie. I think the admiring tone created conveys the idea that it only takes small, infrequent positive moments to reinforce one's love for their family. It is also a reminder to any reader to take pride in oneself and keep their head held high. In a way, this small moment of support has an undertone of melancholy as Shuggie sees his mother’s love for him but knows that once she begins to drift into a drunken state, she will no longer be her proud self.</p>
+<p>I would easily recommend this book and therefore give it four stars. I cannot wait to read Stuart’s most recent book ‘Young Mungo’.</p>]]></content>
+        <author>
+            <name>Layla Williams</name>
+            <uri>https://www.linkedin.com/in/layla-williams-9a6233316/</uri>
+        </author>
+        <category label="Fiction" term="Fiction"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[War Horse, National Theatre]]></title>
         <id>https://laylamaywilliams.github.io/blog/warhorse</id>
