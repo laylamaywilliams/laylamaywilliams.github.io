@@ -2,12 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://laylamaywilliams.github.io/blog</id>
     <title>Bookshelf Blog</title>
-    <updated>2025-07-16T00:00:00.000Z</updated>
+    <updated>2025-07-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://laylamaywilliams.github.io/blog"/>
     <subtitle>The latest book reviews and thoughts.</subtitle>
     <icon>https://laylamaywilliams.github.io/img/favicon.ico</icon>
     <rights>Copyright © 2025 My Book Shelf.</rights>
+    <entry>
+        <title type="html"><![CDATA[Twelfth Night, William Shakespeare]]></title>
+        <id>https://laylamaywilliams.github.io/blog/twelfthnight</id>
+        <link href="https://laylamaywilliams.github.io/blog/twelfthnight"/>
+        <updated>2025-07-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img]]></summary>
+        <content type="html"><![CDATA[<img src="https://oxford-playhouse.transforms.svdcdn.com/production/Tickets-Oxford/TO-Twelfth-Night-OTG-Jul-25.jpg?w=760&amp;h=535&amp;q=100&amp;auto=format&amp;fit=crop&amp;dm=1743591287&amp;s=433849d0c7e39e2da72f35e5cd003d26" alt="War Horse" style="float:left;margin-right:20px;margin-bottom:10px;max-width:150px;height:auto">
+<p>To see the Oxford Theatre Guild’s ‘Twelfth Night’, is to be transported to a place of drunken madness, lovesick folly and hilarious schemes. Directed by Michael Corbridge and Martha Gray, this modern twist on one of Shakespeare’s classics is not one to miss.</p>
+<p>The very setting of OTG’s fantastic adaptation serves to immerse the audience into an evening of love, laughter and disguise. With live music and a soundtrack from the 1980’s, the play is modernised yet still in keeping with Shakespeare’s original. Having often wondered whether adding modern relevance to Shakespeare’s literary works allows their original aim to be maintained, I was pleased to see how OTG incorporated contemporary humour without disrupting the play’s essence.</p>
+<p>Whilst one would expect to be brought to laughter in the presence of the humorous Sir Andrew, Sir Toby and Maria, Sir Andrew’s pink socks (and eventual pink boxing gloves) comedically emphasises the ridiculousness of some of Shakespeare’s most loved characters. A stand out performance, however, would be that of Freyja Madsen as the hilarious Malvolio who undergoes a dramatic transformation from a stiff embodiment of propriety to a ridiculous, almost pitiful personification of the power of self-delusion. OTG’s costume choice takes the already iconic cross-gartered yellow stockings to a whole new level by creating a yellow corset to match!</p>
+<p>As for the play’s bemusing love triangle, typical to Shakespeare’s comedies, Ellie Higginbotham as the disguised Viola, Fifi Homan as the beautiful Olivia and Ariel Levine as the love-sick Duke Orsino remain at the center of the play’s journey of love and mistaken identity. As the character of Viola puts it, only ‘time’ can ‘untangle’ the complex series of events leading to the play’s satisfying ending. We see this with the arrival of Viola’s twin brother, Sebastian, played by the talented young actor, Joe Lamb. The dramatic irony in the final scenes, as Sebastian is comically attacked by Sir Andrew and Viola appears to be suddenly married to Olivia, is heightened by the actors’ brilliant facial expressions and consistently misguided actions.</p>
+<p>‘Twelfth Night’ by the Oxford Theatre Guild is therefore not an evening to miss. Running from now until the 26th of July, there is still time for you to buy tickets and be immersed in ‘this very midsummer madness’.</p>
+<p><a href="https://www.ticketsoxford.com/events/twelfth-night-by-william-shakespeare" target="_blank" rel="noopener noreferrer">https://www.ticketsoxford.com/events/twelfth-night-by-william-shakespeare</a></p>]]></content>
+        <category label="Classics" term="Classics"/>
+        <category label="Theatre" term="Theatre"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shuggie Bain, Douglas Stuart]]></title>
         <id>https://laylamaywilliams.github.io/blog/shuggie</id>
